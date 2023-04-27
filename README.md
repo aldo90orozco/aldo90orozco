@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I´m Aldo Orozco trainee developer,
+# I´m Aldo Orozco fullstack trainee developer,
 ### I build innovative solutions through teamwork and collaboration.
 
 Since 2021, I have been focusing on web development, taking various courses and bootcamps to expand my knowledge in this discipline. Currently, I am in my second year of studying Software Development at a technical institute. Although my knowledge level is still that of a trainee, I am highly motivated to learn and become an integral part of any company I join. I am committed to applying my skills to develop effective, high-quality web solutions, and I am confident that I can contribute to the growth of any project assigned to me
